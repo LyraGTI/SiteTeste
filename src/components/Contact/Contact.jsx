@@ -23,8 +23,8 @@ export const Contact = () => {
           <a href="https://www.linkedin.com/in/blenda-martins-6473ba20b/">linkedin.com/blendaMartins</a>
         </li>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/whatsapp5.png")} alt="WhatsApp Icone" />
-          <a href="https://www.github.com/myname">Me chame no WhatsApp!</a>
+          <img src={getImageUrl("contact/whatsapp6.png")} alt="WhatsApp Icone" />
+          <a href="https://wa.me/message/QDUXHJIUGE43K1">Me chame no WhatsApp!</a>
         </li>
       </ul>
     </footer>
