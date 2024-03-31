@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Reestruturação Curricular",
+    "imageSrc": "projects/cv2.png",
+    "description": "Quer atualizar seu currículo para se destacar no mercado? Oferecemos reestruturação curricular para alinhá-lo com as demandas atuais.",
+    "skills": ["Alinhamento", "Atualização", "Inovação"]
+  },
+  {
+    "title": "Potencialização do LinkedIn",
+    "imageSrc": "projects/linkedin3.jpg",
+    "description": "Quer tirar o máximo proveito do LinkedIn? A potencialização dessa plataforma pode ser a chave para impulsionar sua carreira!    ",
+    "skills": ["Visibilidade", "Engajamento", "Networking"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Entrevista em Foco",
+    "imageSrc": "projects/entrevista.jpg",
+    "description": "Consultoria através de simulações de entrevistas para se comunicar com clareza, objetividade e confiança.",
+    "skills": ["Simulações", "Preparação", "Comunicação"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Gupy",
+    "imageSrc": "skills/GupyEsse.png"
+  },
+  {
+    "title": "Sólides",
+    "imageSrc": "skills/Solidies1.png"
+  },
+  {
+    "title": "Catho",
+    "imageSrc": "skills/catho2.png"
+  },
+  {
+    "title": "Indeed",
+    "imageSrc": "skills/indeed.png"
+  },
+  {
+    "title": "InfoJobs",
+    "imageSrc": "skills/infoJobs.png"
+  },
+  {
+    "title": "RioVagas",
+    "imageSrc": "skills/rioVagas.png"
+  },
+  {
+    "title": "Empregos.com",
+    "imageSrc": "skills/empregos.png"
+  },
+  {
+    "title": "Trello",
+    "imageSrc": "skills/trello.jpg"
+  }
+]
